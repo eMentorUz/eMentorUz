@@ -23,7 +23,10 @@ body {
   margin: 0;
   background-color: #fff;
   color: #000; }
-
+/* additional styles*/
+.elements{
+  display: inline-block;
+}
 /*********************************************
  * VIEW FRAGMENTS
  *********************************************/
